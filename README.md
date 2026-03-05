@@ -1,8 +1,8 @@
 <div align="center">
 
-# 📊 Batch Normalization in 
+# 📊 Batch Normalization in ANN
 
-### A Deep  Practice Example
+### A Deep Learning Practice Example
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
